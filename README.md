@@ -38,6 +38,7 @@ https://alejo7774.github.io/desing-web-NexusTech/
 2. Abre el archivo index.html en tu navegador.
 3.Disfruta la experiencia de usuario.
 
-##📄 Licencia
+---
+## 📄 Licencia
 Este proyecto está bajo la licencia MIT. Puedes usarlo libremente para fines personales o comerciales.
 
